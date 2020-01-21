@@ -3577,6 +3577,7 @@ public class HTMLScanner
          * Sets the values of this item.
          * @deprecated after 1.9.9. Use {@link #setValues(int, int, int, int, int, int)}. 
          **/
+        @Deprecated
         public void setValues(int beginLine, int beginColumn,
                               int endLine, int endColumn) {
         	setValues(beginLine, beginColumn, 0, endLine, endColumn, 0);

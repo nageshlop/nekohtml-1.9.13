@@ -38,6 +38,7 @@ public class TestHTMLDOMFragment {
     //
 
     /** Main. */
+/*
     public static void main(String[] argv) throws Exception {
         DOMFragmentParser parser = new DOMFragmentParser();
         HTMLDocument document = new HTMLDocumentImpl();
@@ -47,7 +48,7 @@ public class TestHTMLDOMFragment {
             print(fragment, "");
         }
     } // main(String[])
-
+*/
     //
     // Public static methods
     //
