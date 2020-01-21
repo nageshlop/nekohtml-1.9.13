@@ -25,4 +25,4 @@ Contact Information
 
 Andy Clark <andyc@apache.org>
 
-For moving to jdk13, commented a test case in file - src/sample/TestHTMLDOMFragment.java as it was giving some issue
+For moving to jdk13, commented a test case in file - src/sample/TestHTMLDOMFragment.java as it was giving compile issue
